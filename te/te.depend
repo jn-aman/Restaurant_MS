@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1505746636 source:c:\users\aman jain\desktop\c\te\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1505746636 c:\users\aman jain\desktop\c\te\conio2.h
+	<conio.h>
+	<windows.h>
+
