@@ -1,0 +1,7 @@
+xyz 6
+pune 5
+Noida 0
+Indirapuram 1
+Vaishali 2
+Kaushambi 3
+LaxmiNagar 4
